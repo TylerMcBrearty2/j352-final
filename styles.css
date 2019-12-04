@@ -6,6 +6,12 @@ body {
   font-family: PT Serif;
 }
 
+.jumbotron {
+  color: #CB1129;
+  background-color: black;
+  text-align: center;
+}
+
 title{
   text-align: center;
   margin-bottom: 20px;
