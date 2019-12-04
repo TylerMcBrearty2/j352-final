@@ -12,9 +12,16 @@ title{
   font-family: Titillum Web;
 }
 
-#name-n-date {
+#name {
   text-align: center;
   margin-bottom: 15px;
+  font-family: PT Serif;
+}
+
+#date {
+  text-align: center;
+  margin-bottom: 15px;
+  font-family: PT Serif;
 }
 
 #top-photo {
@@ -34,6 +41,7 @@ title{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-width: 100%;
 }
 
 #UMD-Revenue {
