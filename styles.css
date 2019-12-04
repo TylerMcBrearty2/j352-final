@@ -3,11 +3,13 @@ body {
   margin-left: auto;
   margin-right: auto;
   font-size: 16px;
+  font-family: PT Serif;
 }
 
 title{
   text-align: center;
   margin-bottom: 20px;
+  font-family: Titillum Web;
 }
 
 #name-n-date {
@@ -16,7 +18,10 @@ title{
 }
 
 #top-photo {
-  max-width: 100%
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #Big-10 {
@@ -25,7 +30,13 @@ title{
   margin-right: auto;
 }
 
-#breakdown {
+#cole-field-house {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#UMD-Revenue {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -34,4 +45,11 @@ title{
 figcaption{
   font-size: 12px;
   color: grey;
+}
+
+footer {
+  font-size: 12px;
+  color: grey;
+  text-align: right;
+  margin-bottom: 20px;
 }
